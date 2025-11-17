@@ -9,7 +9,7 @@ The goal is to provide a clean, structured, end-to-end path for learning modern 
 
 ---
 
-## 🧠 01 – Intro to Data Engineering
+## 🧠 101 – Intro to Data Engineering
 - What is Data Engineering?
 - Data ecosystem roles: DE, DA, DS
 - Batch vs Streaming concepts
@@ -17,7 +17,7 @@ The goal is to provide a clean, structured, end-to-end path for learning modern 
 
 ---
 
-## 🔄 02 – Data Ingestion & Extraction
+## 🔄 102 – Data Ingestion & Extraction
 - Batch & Streaming ingestion
 - Ingestion from APIs, Databases, Files
 - Change Data Capture (CDC)
@@ -26,7 +26,7 @@ The goal is to provide a clean, structured, end-to-end path for learning modern 
 
 ---
 
-## 🔧 03 – Data Transformation Fundamentals
+## 🔧 103 – Data Transformation Fundamentals
 - ETL vs ELT
 - SQL transformation patterns
 - SCD Types (0–6)
@@ -36,7 +36,7 @@ The goal is to provide a clean, structured, end-to-end path for learning modern 
 
 ---
 
-## 🗄️ 04 – Data Loading & Storage Systems
+## 🗄️ 104 – Data Loading & Storage Systems
 - Data Lakes (S3, ADLS, GCS)
 - Data Warehouses (Snowflake, BigQuery, Redshift)
 - Lakehouse systems (Delta Lake, Iceberg, Hudi)
@@ -45,7 +45,7 @@ The goal is to provide a clean, structured, end-to-end path for learning modern 
 
 ---
 
-## 🪢 05 – Orchestration & Workflow Management
+## 🪢 105 – Orchestration & Workflow Management
 - Airflow fundamentals
 - DAGs, Operators, Sensors
 - Scheduling & Monitoring
@@ -55,7 +55,7 @@ The goal is to provide a clean, structured, end-to-end path for learning modern 
 
 ---
 
-## 🏛️ 06 – Data Modeling & Architecture
+## 🏛️ 106 – Data Modeling & Architecture
 - OLTP vs OLAP
 - Star Schema, Snowflake Schema
 - Data Vault Modeling
@@ -64,7 +64,7 @@ The goal is to provide a clean, structured, end-to-end path for learning modern 
 
 ---
 
-## 🔐 07 – Data Governance & Security
+## 🔐 107 – Data Governance & Security
 - Data lineage
 - Data cataloging & metadata management
 - IAM, RBAC
@@ -74,7 +74,7 @@ The goal is to provide a clean, structured, end-to-end path for learning modern 
 
 ---
 
-## 🏗️ 08 – Data Platform Infrastructure
+## 🏗️ 108 – Data Platform Infrastructure
 - Docker: Images, Containers, Networking
 - Kubernetes: Pods, Deployments, Scaling
 - Terraform: IaC, Providers, Modules
